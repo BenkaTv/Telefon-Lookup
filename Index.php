@@ -20,7 +20,7 @@ body {
 
 	background-repeat: repeat;
 
-	color: green;
+	color: White;
 
 
 }
